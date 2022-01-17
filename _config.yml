@@ -1,1 +1,8 @@
+
+title: Aashima Ahuja # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Egineer & Content Creator
+  <br><br>
+  <a href="https://www.linkedin.com/in/aashimaahuja/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
