@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/aashimaahuja/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
+
+
+
+## Experience
+
+### **SENIOR FRONTEND DEVELOPER**
+### MIRO
+
+Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+
 
 ### Markdown
 
